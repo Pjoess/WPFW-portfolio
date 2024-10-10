@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authenticatie", "Authenticatie\Authenticatie.csproj", "{0417C1B0-CF5A-48DD-974C-4D29A2554018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsProject", "TestsProject\TestsProject.csproj", "{94B4622E-2FE1-4482-B940-41B88ACAC245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{127DD7CE-C7FF-43D3-8530-0700AF9BD549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127DD7CE-C7FF-43D3-8530-0700AF9BD549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127DD7CE-C7FF-43D3-8530-0700AF9BD549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127DD7CE-C7FF-43D3-8530-0700AF9BD549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0417C1B0-CF5A-48DD-974C-4D29A2554018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0417C1B0-CF5A-48DD-974C-4D29A2554018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0417C1B0-CF5A-48DD-974C-4D29A2554018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0417C1B0-CF5A-48DD-974C-4D29A2554018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B4622E-2FE1-4482-B940-41B88ACAC245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B4622E-2FE1-4482-B940-41B88ACAC245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B4622E-2FE1-4482-B940-41B88ACAC245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B4622E-2FE1-4482-B940-41B88ACAC245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
